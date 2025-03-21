@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="projects">
+			<Node name="project0">
+				<Node name="tests">
+					<Node name="test0">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="durationwithoutchildren" type="I" value="9925"/>
+						<Prp name="duration" type="I" value="9925"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewA3ADQANABEAEYAQQAxADcALQA3AEEANQA4AC0ANAAwAEIAOQAtADgAQgAyAEEALQBEAEMANAA1AEQAMgA0ADkAOQAwADIAQwB9AC8AewAwAEMARQA3ADQARgBDADUALQBFADIAQwBEAC0ANAAyADIAMAAtADkAMwBDADIALQAzADgARAA4AEIANwBEADEAMQBCAEUAMAB9AC8AqpN8BLDIC0qKPrSbfs3IGwAAAAAvAGUAbQBwAHQAeQA="/>
+						<Prp name="starttime" type="D" value="45736.9665938773"/>
+						<Prp name="name" type="S" value="Entrar na conta do youtube"/>
+						<Prp name="status" type="I" value="0"/>
+					</Node>
+				</Node>
+				<Prp name="duration" type="I" value="9925"/>
+				<Prp name="incompletedtests" type="I" value="0"/>
+				<Prp name="failedtests" type="I" value="0"/>
+				<Prp name="loadtests" type="I" value="0"/>
+				<Prp name="warningtests" type="I" value="0"/>
+				<Prp name="name" type="S" value="TestProject1"/>
+				<Prp name="starttime" type="D" value="45736.9665938773"/>
+			</Node>
+		</Node>
+		<Prp name="key" type="S" value="{45B1AC21-86CA-4314-9AE1-87DFA55B0808}"/>
+		<Prp name="stop" type="D" value="45736.9667102778"/>
+		<Prp name="incompletedtests" type="I" value="0"/>
+		<Prp name="loadtests" type="I" value="0"/>
+		<Prp name="failedtests" type="I" value="0"/>
+		<Prp name="starttime" type="D" value="45736.9665889583"/>
+		<Prp name="warningtests" type="I" value="0"/>
+		<Prp name="host" type="S" value="DESKTOP-NEOB5E2"/>
+		<Prp name="successtestwithretries" type="I" value="0"/>
+		<Prp name="executionstatus" type="I" value="0"/>
+		<Prp name="tests" type="I" value="1"/>
+		<Prp name="testname" type="S" value="[All Scenarios]"/>
+		<Prp name="name" type="S" value="YoutubeTestingSuite"/>
+		<Prp name="user" type="S" value="I5 10400F"/>
+		<Prp name="warningtestwithretries" type="I" value="0"/>
+	</Node>
+</Nodes>

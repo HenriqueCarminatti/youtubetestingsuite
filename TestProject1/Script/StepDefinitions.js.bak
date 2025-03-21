@@ -1,0 +1,46 @@
+﻿
+
+Given("que o usuário está na página inicial", function (){
+  Browsers.Item(btChrome).Navigate("https://www.youtube.com/");
+});
+
+When("clica em criar", function (){
+  Aliases.browser.pageYoutube.buttonCriar.ClickButton();
+  Aliases.browser.pageYoutube.linkEndpoint.textnodeEnviarVDeo.Click();
+});
+
+And ("faz upload do arquivo de vídeo", function (){
+  Aliases.browser.pageConteDoDoCanalYoutubeStudio.buttonSelecionarArquivos.ClickButton();
+  Delay(1000);
+  Runner.CallMethod("Utilidades.SelecionaCaminhoWinExplorer");
+  Delay(1000);
+  Aliases.browser.dlgAbrir.WorkerW.ReBarWindow32.AddressBandRoot.progress.comboBox.SetText("c:\\videos");
+  Aliases.browser.dlgAbrir.cbxNome.ComboBox.Edit.SetText("teste.mkv");
+  Aliases.browser.dlgAbrir.cbxNome.ComboBox.Edit.Keys("[Enter]");
+  
+});
+
+Then("redireciona para a dialog de upload", function (){
+  aqObject.CheckProperty(Aliases.browser.pageConteDoDoCanalYoutubeStudio.FindElement("//div[contains(@class, 'title-row')]"), "contentText", cmpEqual, "teste\nSalvo como privado");
+  Aliases.browser.pageConteDoDoCanalYoutubeStudio.textnode.Click();
+});
+
+
+Given("faz upload do arquivo de vídeo", function (){
+  Aliases.browser.pageConteDoDoCanalYoutubeStudio.panelCheckboxContainer.Click();
+  Aliases.browser.pageConteDoDoCanalYoutubeStudio.buttonEditarRascunho.ClickButton();
+});
+
+When("preenche detalhes do vídeo", function (){
+  Aliases.browser.pageConteDoDoCanalYoutubeStudio.panelAdicioneUmTTuloQueDescreva.Click();
+  Aliases.browser.pageConteDoDoCanalYoutubeStudio.panelAdicioneUmTTuloQueDescreva.SetText("Cenario de teste");
+  Aliases.browser.pageConteDoDoCanalYoutubeStudio.panelAdicioneUmTTuloQueDescreva.Keys("[Tab]");
+});
+
+When("edita detalhes do vídeo", function (){
+  
+});
+
+Then("publica vídeo", function (){
+  
+});

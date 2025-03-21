@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenarios>
+	<Feature Path="2_upload_video.feature" />
+	<Feature Path="3_editar_video.feature" />
+	<Feature Path="1_login.feature" />
+</Scenarios>
