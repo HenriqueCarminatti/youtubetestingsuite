@@ -23,201 +23,48 @@
 		<Node name="logs">
 			<Node name="log idx=0000">
 				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.8758653009"/>
+				<Prp name="datetime" type="D" value="45737.4478673727"/>
 				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{3720247B-2E48-4CF9-B91D-A7875EF61434}"/>
-				<Prp name="nameofroot" type="S" value="upload de vídeo"/>
-				<Prp name="relpath" type="S" value="20_03_2025_21_01_14_762\Description.tcLog"/>
+				<Prp name="key" type="S" value="{D4195105-C44A-432F-9295-66E06BAF247E}"/>
+				<Prp name="nameofroot" type="S" value="Entrar na conta do youtube"/>
+				<Prp name="relpath" type="S" value="21_03_2025_10_44_55_741\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
 			</Node>
 			<Node name="log idx=0001">
 				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.8761785185"/>
+				<Prp name="datetime" type="D" value="45737.4563219329"/>
 				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{8325BBCB-62DD-4845-8A2A-CF35352D6F0A}"/>
-				<Prp name="nameofroot" type="S" value="editar vídeo"/>
-				<Prp name="relpath" type="S" value="20_03_2025_21_01_41_824\Description.tcLog"/>
+				<Prp name="key" type="S" value="{D74CA897-929D-44B0-A481-A6A7272224D3}"/>
+				<Prp name="nameofroot" type="S" value="upload_video"/>
+				<Prp name="relpath" type="S" value="21_03_2025_10_57_06_215\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
 			</Node>
 			<Node name="log idx=0002">
 				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9364767361"/>
+				<Prp name="datetime" type="D" value="45737.4566917014"/>
 				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{0A3F1574-D302-4C33-A788-A216C63AB433}"/>
-				<Prp name="nameofroot" type="S" value="upload de vídeo"/>
-				<Prp name="relpath" type="S" value="20_03_2025_22_28_31_590\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
+				<Prp name="key" type="S" value="{AC887012-4BE3-44C3-8D6B-895CE1EE853F}"/>
+				<Prp name="nameofroot" type="S" value="editar vídeo"/>
+				<Prp name="relpath" type="S" value="21_03_2025_10_57_38_163\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
 			</Node>
 			<Node name="log idx=0003">
 				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9380892708"/>
+				<Prp name="datetime" type="D" value="45737.4575683912"/>
 				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{4BF0A7F8-CFFA-4304-8CCB-FB07050E5E22}"/>
-				<Prp name="nameofroot" type="S" value="Entrar na conta do youtube"/>
-				<Prp name="relpath" type="S" value="20_03_2025_22_30_50_913\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
+				<Prp name="key" type="S" value="{0C03ED53-5480-4325-ADD3-9F287D9771EC}"/>
+				<Prp name="nameofroot" type="S" value="Exclusão de vídeo"/>
+				<Prp name="relpath" type="S" value="21_03_2025_10_58_53_909\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
 			</Node>
 			<Node name="log idx=0004">
 				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9486804398"/>
+				<Prp name="datetime" type="D" value="45737.4579175231"/>
 				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{F4C9E139-0068-4AE8-9C9D-42E16EB164E1}"/>
-				<Prp name="nameofroot" type="S" value="Entrar na conta do youtube"/>
-				<Prp name="relpath" type="S" value="20_03_2025_22_46_05_990\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
-			</Node>
-			<Node name="log idx=0005">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9501664005"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{F3BBDE89-5AD6-438D-8EA4-AEDCC8BD8070}"/>
-				<Prp name="nameofroot" type="S" value="Entrar na conta do youtube"/>
-				<Prp name="relpath" type="S" value="20_03_2025_22_48_14_377\Description.tcLog"/>
+				<Prp name="key" type="S" value="{A7CECF18-9F87-4593-8264-61710BC924E0}"/>
+				<Prp name="nameofroot" type="S" value="Fazer logoff e remover conta"/>
+				<Prp name="relpath" type="S" value="21_03_2025_10_59_24_74\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0006">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9511906481"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{A008E7CE-F402-49C4-A3A4-B7D8357A4CD3}"/>
-				<Prp name="nameofroot" type="S" value="Entrar na conta do youtube"/>
-				<Prp name="relpath" type="S" value="20_03_2025_22_49_42_872\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0007">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9538748495"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{0566A782-5B0B-4B03-BBDD-EF3857ADCD71}"/>
-				<Prp name="nameofroot" type="S" value="upload de vídeo"/>
-				<Prp name="relpath" type="S" value="20_03_2025_22_53_34_787\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
-			</Node>
-			<Node name="log idx=0008">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9549129282"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{E816F09E-9594-4386-8282-7178B383B2E1}"/>
-				<Prp name="nameofroot" type="S" value="Entrar na conta do youtube"/>
-				<Prp name="relpath" type="S" value="20_03_2025_22_55_04_477\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
-			</Node>
-			<Node name="log idx=0009">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9578577662"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{5A8C3A13-D183-4A60-BF85-D0F41A5769FE}"/>
-				<Prp name="nameofroot" type="S" value="1_login"/>
-				<Prp name="relpath" type="S" value="20_03_2025_22_59_18_911\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
-			</Node>
-			<Node name="log idx=0010">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9587878704"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{2942CBCC-46F2-4F23-941B-0C45F60BEDCB}"/>
-				<Prp name="nameofroot" type="S" value="1_login"/>
-				<Prp name="relpath" type="S" value="20_03_2025_23_00_39_272\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0011">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9600886921"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{0D4F512C-28EA-42D5-B0C8-7473A3D21494}"/>
-				<Prp name="nameofroot" type="S" value="1_login"/>
-				<Prp name="relpath" type="S" value="20_03_2025_23_02_31_663\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0012">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9603909028"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{5FD8712F-C019-4E0F-9248-45A006D8EED7}"/>
-				<Prp name="nameofroot" type="S" value="upload_video"/>
-				<Prp name="relpath" type="S" value="20_03_2025_23_02_57_774\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
-			</Node>
-			<Node name="log idx=0013">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9606960301"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{23BD1BBB-2584-4C99-8E9F-42A7719DF7B2}"/>
-				<Prp name="nameofroot" type="S" value="1_login"/>
-				<Prp name="relpath" type="S" value="20_03_2025_23_03_24_137\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0014">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.962439456"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{7AB04C4A-4A55-4BA0-A0C5-BF7467624515}"/>
-				<Prp name="nameofroot" type="S" value="1_login"/>
-				<Prp name="relpath" type="S" value="20_03_2025_23_05_54_769\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0015">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9632147454"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{80D49F56-202A-43CE-B5B6-29C8A39504FB}"/>
-				<Prp name="nameofroot" type="S" value="1_login"/>
-				<Prp name="relpath" type="S" value="20_03_2025_23_07_01_754\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0016">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9642159838"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{AB9F8A2C-2C1C-4719-ABE7-66E30806249A}"/>
-				<Prp name="nameofroot" type="S" value="1_login"/>
-				<Prp name="relpath" type="S" value="20_03_2025_23_08_28_261\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0017">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9644820718"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{3545FBB4-9DBF-486C-9C4D-01E3C94C5C35}"/>
-				<Prp name="nameofroot" type="S" value="1_login"/>
-				<Prp name="relpath" type="S" value="20_03_2025_23_08_51_251\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0018">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.966269456"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{B4138C8C-434B-4DB1-825D-D8F189910507}"/>
-				<Prp name="nameofroot" type="S" value="1_login"/>
-				<Prp name="relpath" type="S" value="20_03_2025_23_11_25_681\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0019">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9665854977"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{AE3F0CC9-6531-4D19-8570-DEEE1CAA30BC}"/>
-				<Prp name="nameofroot" type="S" value="1_login"/>
-				<Prp name="relpath" type="S" value="20_03_2025_23_11_52_987\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0020">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9680741319"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{9C62A9E1-D689-45B7-8932-3A80675CB063}"/>
-				<Prp name="nameofroot" type="S" value="upload_video"/>
-				<Prp name="relpath" type="S" value="20_03_2025_23_14_01_605\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0021">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45736.9684668403"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{37E0453E-1AD2-4A45-AD5A-A2D29A6BA8AE}"/>
-				<Prp name="nameofroot" type="S" value="editar_video"/>
-				<Prp name="relpath" type="S" value="20_03_2025_23_14_35_535\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
 			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>

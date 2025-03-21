@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 13">
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="13"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="date" type="D" value="45737.4578411111"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="0"/>
+			<Prp name="message" type="S" value="Then exclui o vídeo"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 1">
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="date" type="D" value="45737.4575798148"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="0"/>
+			<Prp name="message" type="S" value="Given que exista ao menos um vídeo publicado"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 5">
+			<Prp name="remarks" type="S" value="URL: https://www.youtube.com/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="41"/>
+			<Prp name="date" type="D" value="45737.4577928704"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="1"/>
+			<Prp name="message" type="S" value="Navigating to the https://www.youtube.com/ page."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 10">
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="10"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="131"/>
+			<Prp name="date" type="D" value="45737.4578158333"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="9"/>
+			<Prp name="message" type="S" value="Selecionando vídeo"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 7">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.browser.pageYoutube.linkAcessarSeuCanal"/>
+					<Prp name="object left" type="I" value="1047"/>
+					<Prp name="object right" type="I" value="1162"/>
+					<Prp name="object bottom" type="I" value="220"/>
+					<Prp name="line #" type="I" value="150"/>
+					<Prp name="datetime" type="D" value="45737.5828015741"/>
+					<Prp name="click point x" type="I" value="1104"/>
+					<Prp name="object top" type="I" value="200"/>
+					<Prp name="image file name" type="S" value="visImage2.png"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="click point y" type="I" value="210"/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="A click at point (57, 10) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageYoutube.linkAcessarSeuCanal&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;https://www.youtube.com/&quot;).FindElement(&quot;//a[.='Acessar seu canal']&quot;))"/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="150"/>
+			<Prp name="date" type="D" value="45737.4578031134"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="1"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 2">
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="144"/>
+			<Prp name="date" type="D" value="45737.4576034028"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="1"/>
+			<Prp name="message" type="S" value="Fechando navegador"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 3">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.browser.BrowserWindow"/>
+					<Prp name="object left" type="I" value="-8"/>
+					<Prp name="object right" type="I" value="1374"/>
+					<Prp name="object bottom" type="I" value="728"/>
+					<Prp name="line #" type="I" value="145"/>
+					<Prp name="datetime" type="D" value="45737.5826053588"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-8"/>
+					<Prp name="image file name" type="S" value="visImage0.png"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.browser.BrowserWindow&#xA;(Sys.Browser(&quot;chrome&quot;).BrowserWindow(0))"/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="145"/>
+			<Prp name="date" type="D" value="45737.4576065162"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="1"/>
+			<Prp name="message" type="S" value="The 'Conteúdo do canal - YouTube Studio - Google Chrome' window was closed."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 12">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.browser.pageConteDoDoCanalYoutubeStudio3.panel"/>
+					<Prp name="object left" type="I" value="838"/>
+					<Prp name="object right" type="I" value="842"/>
+					<Prp name="object bottom" type="I" value="407"/>
+					<Prp name="line #" type="I" value="133"/>
+					<Prp name="datetime" type="D" value="45737.5828386921"/>
+					<Prp name="click point x" type="I" value="840"/>
+					<Prp name="object top" type="I" value="361"/>
+					<Prp name="image file name" type="S" value="visImage5.png"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="click point y" type="I" value="384"/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="A click at point (2, 23) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageConteDoDoCanalYoutubeStudio3.panel&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;https://studio.youtube.com/channel/UCGDyUbj9qVI0jZHS4fs2YZg/videos/upload?filter=%5B%5D&amp;sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D&quot;).FindElement(&quot;//div/ytcp-select[@id='additional-action-options']/ytcp-text-dropdown-trigger/ytcp-dropdown-trigger//div[contains(@class, 'color-marker-inner')]&quot;))"/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="12"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="133"/>
+			<Prp name="date" type="D" value="45737.4578399306"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="9"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 17">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.browser.pageConteDoDoCanalYoutubeStudio3.buttonExcluirParaSempre"/>
+					<Prp name="object left" type="I" value="791"/>
+					<Prp name="object right" type="I" value="947"/>
+					<Prp name="object bottom" type="I" value="531"/>
+					<Prp name="line #" type="I" value="140"/>
+					<Prp name="datetime" type="D" value="45737.5828504167"/>
+					<Prp name="click point x" type="I" value="869"/>
+					<Prp name="object top" type="I" value="495"/>
+					<Prp name="image file name" type="S" value="visImage8.png"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="click point y" type="I" value="513"/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.browser.pageConteDoDoCanalYoutubeStudio3.buttonExcluirParaSempre&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;https://studio.youtube.com/channel/UCGDyUbj9qVI0jZHS4fs2YZg/videos/upload?filter=%5B%5D&amp;sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D&quot;).FindElement(&quot;//button[.='Excluir para sempre']&quot;))"/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="17"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="140"/>
+			<Prp name="date" type="D" value="45737.4578521296"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="13"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 8">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.browser.pageCenariostesteyoutubeYoutube.linkGerenciarVDeos.panel"/>
+					<Prp name="object left" type="I" value="604"/>
+					<Prp name="object right" type="I" value="741"/>
+					<Prp name="object bottom" type="I" value="351"/>
+					<Prp name="line #" type="I" value="151"/>
+					<Prp name="datetime" type="D" value="45737.5828130093"/>
+					<Prp name="click point x" type="I" value="672"/>
+					<Prp name="object top" type="I" value="315"/>
+					<Prp name="image file name" type="S" value="visImage3.png"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="click point y" type="I" value="333"/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="A click at point (68, 18) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageCenariostesteyoutubeYoutube.linkGerenciarVDeos.panel&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;https://www.youtube.com/@cenariosTesteYoutube&quot;).FindElement(&quot;//yt-flexible-actions-view-model/div[2]/button-view-model/a/yt-touch-feedback-shape//div[contains(@class, 'yt-spec-touch-feedback-shape__fill')]&quot;))"/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="151"/>
+			<Prp name="date" type="D" value="45737.4578146296"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="1"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 11">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.browser.pageConteDoDoCanalYoutubeStudio3.panelCheckboxContainer"/>
+					<Prp name="object left" type="I" value="287"/>
+					<Prp name="object right" type="I" value="305"/>
+					<Prp name="object bottom" type="I" value="429"/>
+					<Prp name="line #" type="I" value="132"/>
+					<Prp name="datetime" type="D" value="45737.5828347106"/>
+					<Prp name="click point x" type="I" value="296"/>
+					<Prp name="object top" type="I" value="411"/>
+					<Prp name="image file name" type="S" value="visImage4.png"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="click point y" type="I" value="420"/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="A click at point (9, 9) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageConteDoDoCanalYoutubeStudio3.panelCheckboxContainer&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;https://studio.youtube.com/channel/UCGDyUbj9qVI0jZHS4fs2YZg/videos/upload?filter=%5B%5D&amp;sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D&quot;).FindElement(&quot;//div[contains(@class, 'style-scope')]/div[contains(@class, 'style-scope')]/ytcp-checkbox-lit/div[contains(@class, 'style-scope')]/div[contains(@class, 'style-scope')]/div[contains(@class, 'style-scope')]/div[contains(@class, 'style-scope')]&quot;))"/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="11"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="132"/>
+			<Prp name="date" type="D" value="45737.4578360532"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="9"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 15">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.browser.pageConteDoDoCanalYoutubeStudio3.textnodeExcluirParaSempre"/>
+					<Prp name="object left" type="I" value="861"/>
+					<Prp name="object right" type="I" value="992"/>
+					<Prp name="object bottom" type="I" value="433"/>
+					<Prp name="line #" type="I" value="138"/>
+					<Prp name="datetime" type="D" value="45737.5828428241"/>
+					<Prp name="click point x" type="I" value="926"/>
+					<Prp name="object top" type="I" value="401"/>
+					<Prp name="image file name" type="S" value="visImage6.png"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="click point y" type="I" value="417"/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="A click at point (65, 16) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageConteDoDoCanalYoutubeStudio3.textnodeExcluirParaSempre&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;https://studio.youtube.com/channel/UCGDyUbj9qVI0jZHS4fs2YZg/videos/upload?filter=%5B%5D&amp;sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D&quot;).FindElement(&quot;//yt-formatted-string[.='Excluir para sempre']&quot;))"/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="15"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="138"/>
+			<Prp name="date" type="D" value="45737.4578442477"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="13"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 14">
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="14"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="137"/>
+			<Prp name="date" type="D" value="45737.4578412847"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="13"/>
+			<Prp name="message" type="S" value="Excluindo vídeo"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 4">
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="40"/>
+			<Prp name="date" type="D" value="45737.4576072222"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="1"/>
+			<Prp name="message" type="S" value="Acessando o Youtube"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 9">
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="date" type="D" value="45737.4578157176"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="0"/>
+			<Prp name="message" type="S" value="When seleciona um vídeo"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="TestProject1\Scenarios\4_excluir_video.feature"/>
+			<Prp name="unit 1" type="S" value="{B7BB7F0A-66C6-4881-8FE5-4B42D1704002}"/>
+		</Node>
+		<Node name="message 16">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.browser.pageConteDoDoCanalYoutubeStudio3.labelEntendoQueAExclusO.textnodeEntendoQueAExclusO"/>
+					<Prp name="object left" type="I" value="451"/>
+					<Prp name="object right" type="I" value="872"/>
+					<Prp name="object bottom" type="I" value="459"/>
+					<Prp name="line #" type="I" value="139"/>
+					<Prp name="datetime" type="D" value="45737.5828467824"/>
+					<Prp name="click point x" type="I" value="661"/>
+					<Prp name="object top" type="I" value="435"/>
+					<Prp name="image file name" type="S" value="visImage7.png"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="click point y" type="I" value="447"/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="A click at point (210, 12) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageConteDoDoCanalYoutubeStudio3.labelEntendoQueAExclusO.textnodeEntendoQueAExclusO&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;https://studio.youtube.com/channel/UCGDyUbj9qVI0jZHS4fs2YZg/videos/upload?filter=%5B%5D&amp;sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D&quot;).FindElement(&quot;//span[contains(text(), 'Entendo que a exclusão é permanente e não pode ser desfeita.')]&quot;))"/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="16"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="139"/>
+			<Prp name="date" type="D" value="45737.4578479398"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="13"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 6">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="object name" type="S" value="Aliases.browser.pageYoutube.buttonMenuDaConta"/>
+					<Prp name="object left" type="I" value="1275"/>
+					<Prp name="object right" type="I" value="1335"/>
+					<Prp name="object bottom" type="I" value="166"/>
+					<Prp name="line #" type="I" value="149"/>
+					<Prp name="datetime" type="D" value="45737.5827947454"/>
+					<Prp name="click point x" type="I" value="1305"/>
+					<Prp name="object top" type="I" value="132"/>
+					<Prp name="image file name" type="S" value="visImage1.png"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="click point y" type="I" value="149"/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.browser.pageYoutube.buttonMenuDaConta&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;https://www.youtube.com/&quot;).FindElement(&quot;#avatar-btn&quot;))"/>
+			<Prp name="unit id" type="I" value="1"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="149"/>
+			<Prp name="date" type="D" value="45737.4577965741"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 0">
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="linkmessage" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="date" type="D" value="45737.4575796065"/>
+			<Prp name="type" type="I" value="8"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="message" type="S" value="Exclusão de vídeo"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Prp name="status" type="I" value="0"/>
+	</Node>
+</Nodes>

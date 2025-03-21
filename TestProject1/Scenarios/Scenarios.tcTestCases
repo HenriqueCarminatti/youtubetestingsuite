@@ -3,4 +3,6 @@
 	<Feature Path="2_upload_video.feature" />
 	<Feature Path="3_editar_video.feature" />
 	<Feature Path="1_login.feature" />
+	<Feature Path="4_excluir_video.feature" />
+	<Feature Path="5_logoff.feature" />
 </Scenarios>

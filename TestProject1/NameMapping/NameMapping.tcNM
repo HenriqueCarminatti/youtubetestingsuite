@@ -20,7 +20,6 @@
 						</Properties>
 						<Children>
 							<Child Name="BrowserWindow" Key="{1067B6A2-32A5-4544-A94F-AFDDEB8FF246}">
-								<Image FileName="-716911960" Left="-8" Top="-8" Right="1374" Bottom="728" />
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="BrowserWindow" />
@@ -31,7 +30,6 @@
 								</Properties>
 								<Children>
 									<Child Name="Chrome_RenderWidgetHostHWND" Key="{E1A0E1BD-6A02-4A3D-A90D-06DDE305E42E}">
-										<Image FileName="2020944318" Left="0" Top="121" Right="1366" Bottom="720" />
 										<TypeInfo Item0="{55AEFE90-B3D9-43EB-B46A-C71167DBBB12}" />
 										<Properties>
 											<Property Name="WndClass">
@@ -45,7 +43,6 @@
 								</Children>
 							</Child>
 							<Child Name="pageYoutube" Key="{ED10303D-52F3-4762-AA9A-A2643FD96336}">
-								<Image FileName="-716911960" Left="0" Top="121" Right="1366" Bottom="720" />
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="Page" />
@@ -56,7 +53,6 @@
 								</Properties>
 								<Children>
 									<Child Name="buttonCriar" Key="{5D2E54FD-88D5-4F32-88C4-8D68C63BCE97}">
-										<Image FileName="-716911960" Left="1133" Top="131" Right="1219" Bottom="167" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -77,7 +73,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint" Key="{07279C91-B048-408B-A417-EBC180288605}">
-										<Image FileName="264499877" Left="1133" Top="175" Right="1340" Bottom="215" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Enviar vídeo&apos;)]" />
@@ -97,7 +92,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeEnviarVDeo" Key="{21AB726A-5C34-4C11-838E-D87D6E4D99A5}">
-										<Image FileName="264499877" Left="1133" Top="175" Right="1340" Bottom="215" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -118,7 +112,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeBr" Key="{D81A88F3-5316-4343-AEB9-81A7313FD41A}">
-										<Image FileName="-88257666" Left="0" Top="121" Right="1351" Bottom="121" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -130,7 +123,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonGuia" Key="{2B450BCB-9980-4C2B-8BB5-12E86A773315}">
-										<Image FileName="-88257666" Left="24" Top="137" Right="48" Bottom="161" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -145,7 +137,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkLogo" Key="{0D5DDCBF-56C0-40E1-B311-BEB71997A394}">
-										<Image FileName="690652663" Left="56" Top="121" Right="179" Bottom="177" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -163,7 +154,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonPularNavegaO" Key="{C35EA717-18B3-4501-B1CF-1328AE1E9603}">
-										<Image FileName="1568485395" Left="185" Top="133" Right="321" Bottom="169" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -181,7 +171,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="formResults" Key="{FBEA80C6-C7E7-4424-A576-AA339E83566A}">
-										<Image FileName="-1280880066" Left="375" Top="137" Right="858" Bottom="161" />
 										<Selectors>
 											<Selector>
 												<Value Value="//form[contains(@action, &apos;results&apos;)]" />
@@ -198,7 +187,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textboxSearchQuery" Key="{D0AFF864-17D0-4D52-944F-9FC6C417C8B2}">
-										<Image FileName="-1280880066" Left="375" Top="137" Right="858" Bottom="161" />
 										<TypeInfo Item0="{54B6131C-271A-48C0-AC09-2A04A5C10ED3}" />
 										<Selectors>
 											<Selector>
@@ -219,7 +207,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="button" Key="{9AE4B973-5F12-4D78-96BE-FAADC84015BA}">
-										<Image FileName="1981197492" Left="861" Top="136" Right="888" Bottom="162" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -234,7 +221,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonSearch" Key="{E4F10AAC-E1D5-4812-ADF7-FDD90E9B2317}">
-										<Image FileName="1981197492" Left="894" Top="129" Right="958" Bottom="169" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -255,7 +241,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonPesquisarComSuaVoz" Key="{75B4A92B-CA9A-40FA-A2B9-3A6338B06F9B}">
-										<Image FileName="-46105601" Left="974" Top="129" Right="1014" Bottom="169" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -270,7 +255,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonNotificaEs" Key="{CBA622D8-0C66-42D3-8A60-9AA604EB2402}">
-										<Image FileName="-88257666" Left="1227" Top="129" Right="1267" Bottom="169" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -288,7 +272,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonMenuDaConta" Key="{F8B7C0B3-83F7-4E4C-8315-609D09840794}">
-										<Image FileName="-88257666" Left="1275" Top="132" Right="1335" Bottom="166" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -306,7 +289,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint2" Key="{70E8C482-778E-498B-9306-5DBCDEC3FC56}">
-										<Image FileName="-88257666" Left="12" Top="189" Right="216" Bottom="229" />
 										<Selectors>
 											<Selector>
 												<Value Value="#endpoint" />
@@ -329,7 +311,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeInCio" Key="{FB52E81E-FEB9-4370-B540-B882A47B6600}">
-										<Image FileName="-88257666" Left="12" Top="189" Right="216" Bottom="229" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -347,7 +328,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint3" Key="{F2C4CD6C-1240-43BE-A127-D2808020393A}">
-										<Image FileName="1160373805" Left="12" Top="229" Right="216" Bottom="269" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Shorts&apos;)]" />
@@ -367,7 +347,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeShorts" Key="{BBDDC1B5-EB7D-413E-8BCD-88B2D1FC5723}">
-										<Image FileName="1160373805" Left="12" Top="229" Right="216" Bottom="269" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -385,7 +364,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint4" Key="{323F97DF-9BDC-4593-AF13-93D47BD31A7A}">
-										<Image FileName="-1916493643" Left="12" Top="269" Right="216" Bottom="309" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Inscrições&apos;)]" />
@@ -405,7 +383,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeInscriEs" Key="{E89E3844-3B79-4A4F-810A-461C6A8FF371}">
-										<Image FileName="-1916493643" Left="12" Top="269" Right="216" Bottom="309" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -426,7 +403,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint5" Key="{8ADE33F8-1EE8-4B5B-B972-5D05DF4C40C0}">
-										<Image FileName="-705019558" Left="12" Top="334" Right="216" Bottom="374" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Você&apos;)]" />
@@ -446,7 +422,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeVoc" Key="{F4F62031-6E3F-4085-B080-456216A6A3CE}">
-										<Image FileName="-705019558" Left="12" Top="334" Right="216" Bottom="374" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -467,7 +442,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint6" Key="{00FED469-7A15-43C4-ABE2-B4263021F5EC}">
-										<Image FileName="1553484818" Left="12" Top="374" Right="216" Bottom="414" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Histórico&apos;)]" />
@@ -487,7 +461,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeHistRico" Key="{755F29EE-A2A8-4F56-8F74-97A22160CA53}">
-										<Image FileName="1553484818" Left="12" Top="374" Right="216" Bottom="414" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -508,7 +481,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint7" Key="{96D350D7-B3E1-4158-A1EF-61C8FCADEE4A}">
-										<Image FileName="1489221834" Left="12" Top="414" Right="216" Bottom="454" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Playlists&apos;)]" />
@@ -528,7 +500,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodePlaylists" Key="{904C17F9-9280-4CC1-83C0-680A68FE7C72}">
-										<Image FileName="1489221834" Left="12" Top="414" Right="216" Bottom="454" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -549,7 +520,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint8" Key="{20E91408-E356-4858-97E8-3D9F437130DF}">
-										<Image FileName="1717152905" Left="12" Top="454" Right="216" Bottom="494" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Seus vídeos&apos;)]" />
@@ -569,7 +539,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeSeusVDeos" Key="{E3651188-1811-4C85-BD19-1F744CBB01F2}">
-										<Image FileName="1717152905" Left="12" Top="454" Right="216" Bottom="494" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -590,7 +559,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint9" Key="{4A193B37-2E49-44FB-8324-12411DB4A1AB}">
-										<Image FileName="2003384837" Left="12" Top="494" Right="216" Bottom="534" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Assistir mais tarde&apos;)]" />
@@ -610,7 +578,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeAssistirMaisTarde" Key="{177E867C-DEF4-4F80-8AFD-9FEBE2F0D744}">
-										<Image FileName="2003384837" Left="12" Top="494" Right="216" Bottom="534" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -628,7 +595,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint10" Key="{25B3B1B8-6C84-4F0D-A269-990D617F2613}">
-										<Image FileName="401378077" Left="12" Top="534" Right="216" Bottom="574" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Vídeos com &quot;Gostei&quot;&apos;)]" />
@@ -648,7 +614,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeVDeosComGostei" Key="{5796845A-E610-4C08-948B-0DEAC7B8C3A1}">
-										<Image FileName="401378077" Left="12" Top="534" Right="216" Bottom="574" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -666,7 +631,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint11" Key="{C744591C-8FEC-46B8-98A8-1765104D607F}">
-										<Image FileName="424625163" Left="12" Top="631" Right="216" Bottom="671" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Em alta&apos;)]" />
@@ -683,7 +647,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeEmAlta" Key="{60ABB9E2-797A-4FAB-827A-621ECD7B006D}">
-										<Image FileName="424625163" Left="12" Top="631" Right="216" Bottom="671" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -704,7 +667,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint12" Key="{17877D4D-1F7D-466B-884D-37E099D2A496}">
-										<Image FileName="-911111314" Left="12" Top="671" Right="216" Bottom="711" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Shopping&apos;)]" />
@@ -721,7 +683,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeShopping" Key="{D7A3535F-4371-4326-83CF-7CADE20B16DD}">
-										<Image FileName="-911111314" Left="12" Top="671" Right="216" Bottom="711" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -739,7 +700,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint13" Key="{2F383763-3072-4520-96E0-F20A20B1A2EB}">
-										<Image FileName="-1817431701" Left="12" Top="680" Right="216" Bottom="720" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Música&apos;)]" />
@@ -756,7 +716,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeMSica" Key="{FE1B5669-D002-47AC-9D29-62612C98A360}">
-										<Image FileName="-1817431701" Left="12" Top="680" Right="216" Bottom="720" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -774,7 +733,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint14" Key="{654FE8FE-5D70-4FE3-8932-A6484C1D8B2E}">
-										<Image FileName="1868202132" Left="12" Top="428" Right="216" Bottom="468" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Filmes&apos;)]" />
@@ -794,7 +752,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeFilmes" Key="{64F625EB-65F9-4034-8A31-F7FB561B03DE}">
-										<Image FileName="1868202132" Left="12" Top="428" Right="216" Bottom="468" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -815,7 +772,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint15" Key="{02A619C3-A5CC-4FC5-B7CA-45FBA208A906}">
-										<Image FileName="2092365803" Left="12" Top="468" Right="216" Bottom="508" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Ao vivo&apos;)]" />
@@ -835,7 +791,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeAoVivo" Key="{6F59EA69-48BD-4120-9AA8-C31ECDB3A2EA}">
-										<Image FileName="2092365803" Left="12" Top="468" Right="216" Bottom="508" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -853,7 +808,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint16" Key="{7F72B1AC-518F-440A-B30C-CEBF0ACC45A7}">
-										<Image FileName="1453638280" Left="12" Top="508" Right="216" Bottom="548" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Jogos&apos;)]" />
@@ -873,7 +827,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeJogos" Key="{10BC84AD-100F-4FDF-A765-38A68191CB09}">
-										<Image FileName="1453638280" Left="12" Top="508" Right="216" Bottom="548" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -894,7 +847,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint17" Key="{79666F2A-07D4-4687-A490-687C9D1A49F8}">
-										<Image FileName="-1566666821" Left="12" Top="548" Right="216" Bottom="588" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Notícias&apos;)]" />
@@ -914,7 +866,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeNotCias" Key="{657DBE95-62CF-4670-B1BE-79C07841636C}">
-										<Image FileName="-1566666821" Left="12" Top="548" Right="216" Bottom="588" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -935,7 +886,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint18" Key="{E8C0AA60-7850-4FD6-8C99-A84EE4B1F591}">
-										<Image FileName="-206818383" Left="12" Top="588" Right="216" Bottom="628" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Esportes&apos;)]" />
@@ -955,7 +905,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeEsportes" Key="{B774E211-CCDF-42A3-AB83-ADE519E8E731}">
-										<Image FileName="-206818383" Left="12" Top="588" Right="216" Bottom="628" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -973,7 +922,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint19" Key="{47F98FFC-C587-442C-8C74-31BDD33D1377}">
-										<Image FileName="-999446358" Left="12" Top="628" Right="216" Bottom="668" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Cursos&apos;)]" />
@@ -993,7 +941,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeCursos" Key="{184A5E57-ECAF-4997-BEDC-0D5159CBD095}">
-										<Image FileName="-999446358" Left="12" Top="628" Right="216" Bottom="668" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1014,7 +961,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint20" Key="{DE02FE1F-7D3B-43FD-B605-B95E2FE57010}">
-										<Image FileName="860028569" Left="12" Top="668" Right="216" Bottom="708" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;Podcasts&apos;)]" />
@@ -1034,7 +980,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodePodcasts" Key="{0C4D7293-F90C-4E92-A4D3-61E70B3B27BB}">
-										<Image FileName="860028569" Left="12" Top="668" Right="216" Bottom="708" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1055,7 +1000,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint21" Key="{001734BD-01DD-4DA8-992E-6CD85BDC37DB}">
-										<Image FileName="335604178" Left="12" Top="428" Right="216" Bottom="468" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;YouTube Premium&apos;)]" />
@@ -1072,7 +1016,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeYoutubePremium" Key="{6FE76123-0DCC-4D63-81E7-03AA5914C37D}">
-										<Image FileName="335604178" Left="12" Top="428" Right="216" Bottom="468" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1093,7 +1036,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint22" Key="{AB684159-11A6-4FAF-ACF4-3A496830DD55}">
-										<Image FileName="1594970740" Left="12" Top="468" Right="216" Bottom="508" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;YouTube Studio&apos;)]" />
@@ -1110,7 +1052,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeYoutubeStudio" Key="{6E9AEBBA-02CD-498F-9220-885C74D1F5C0}">
-										<Image FileName="1594970740" Left="12" Top="468" Right="216" Bottom="508" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1128,7 +1069,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkEndpoint23" Key="{2ABB4BEE-3140-40E3-9773-19AE5CFA88C5}">
-										<Image FileName="1850754721" Left="12" Top="508" Right="216" Bottom="548" />
 										<Selectors>
 											<Selector>
 												<Value Value="//a[contains(., &apos;YouTube Music&apos;)]" />
@@ -1145,7 +1085,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeYoutubeMusic" Key="{5531800D-DE5A-4BFB-8F18-491B787FB0CC}">
-										<Image FileName="1850754721" Left="12" Top="508" Right="216" Bottom="548" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1165,10 +1104,88 @@
 											</Selector>
 										</Selectors>
 									</Child>
+									<Child Name="linkEndpoint24" Key="{0DD19AC9-05A9-4DE2-B868-35871A77A358}">
+										<Image FileName="-2082927724" Left="975" Top="325" Right="1265" Bottom="365" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(., &apos;Sair&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ytd-compact-link-renderer[3]/a[@role=&apos;link&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ytd-compact-link-renderer[3]/a[contains(@class, &apos;yt-simple-endpoint&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;sections&apos;]//ytd-compact-link-renderer[3]/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//ytd-compact-link-renderer[3]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeLabel" Key="{94CD9657-FC20-45EE-944C-AE996C02FF2E}">
+										<Image FileName="-2082927724" Left="1031" Top="335" Right="1055" Bottom="355" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//yt-formatted-string[.=&apos;Sair&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;container&apos;]//yt-multi-page-menu-section-renderer/div[@id=&apos;items&apos;]/ytd-compact-link-renderer[3]/a/tp-yt-paper-item//yt-formatted-string[contains(@class, &apos;style-scope&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;container&apos;]//yt-multi-page-menu-section-renderer/div[@id=&apos;items&apos;]/ytd-compact-link-renderer[3]/a/tp-yt-paper-item//yt-formatted-string" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkFazerLogin" Key="{654F2B9A-BE5F-4699-AB22-B591BBAFBC17}">
+										<Image FileName="-1112100861" Left="1210" Top="131" Right="1335" Bottom="167" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Fazer login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;masthead-container&apos;]/ytd-masthead//ytd-button-renderer/yt-button-shape/a[contains(@class, &apos;yt-spec-button-shape-next&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;buttons&apos;]//yt-button-shape/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;masthead-container&apos;]/ytd-masthead//div[@id=&apos;end&apos;]//ytd-button-renderer/yt-button-shape/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panel" Key="{CA9B758B-9ADA-4DD4-9FD6-442B34E7E8F6}">
+										<Image FileName="-1112100861" Left="1211" Top="132" Right="1334" Bottom="166" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[@id=&apos;end&apos;]//ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape//div[contains(@class, &apos;yt-spec-touch-feedback-shape__fill&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkAcessarSeuCanal" Key="{97069B47-481D-44B7-A5B3-6107E0AD3C33}">
+										<Image FileName="1045440690" Left="1047" Top="200" Right="1162" Bottom="220" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Acessar seu canal&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//yt-formatted-string/a[contains(@class, &apos;yt-simple-endpoint&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//yt-formatted-string[@id=&apos;manage-account&apos;]/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//yt-formatted-string/a" />
+											</Selector>
+										</Selectors>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="pageConteDoDoCanalYoutubeStudio" Key="{706194AB-97E0-46CE-AF20-204F47C19115}">
-								<Image FileName="-716911960" Left="0" Top="121" Right="1366" Bottom="720" />
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="Page" />
@@ -1179,7 +1196,6 @@
 								</Properties>
 								<Children>
 									<Child Name="buttonSelecionarArquivos" Key="{0001D670-040B-43F0-B6EB-21A0049CF891}">
-										<Image FileName="-2088802307" Left="605" Top="519" Right="760" Bottom="555" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -1197,7 +1213,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelAdicioneUmTTuloQueDescreva" Key="{4028D5A1-77C9-4741-9B20-5A636EBC4E23}">
-										<Image FileName="1670830840" Left="263" Top="394" Right="775" Bottom="423" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1212,7 +1227,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeIncluirPalavrasChaveNas" Key="{3CA172AC-1B4E-48EE-A4D1-584169575126}">
-										<Image FileName="-217104100" Left="322" Top="477" Right="338" Bottom="493" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1224,7 +1238,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelFaleSobreSeuVDeoParaOs" Key="{8A83A7B8-75DC-4C22-A817-833DC771F86B}">
-										<Image FileName="-402987393" Left="263" Top="497" Right="775" Bottom="606" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1236,7 +1249,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkSaibaMaisSobreAsMiniaturas" Key="{63DB3E00-DECF-4962-B955-054BEB169FBF}">
-										<Image FileName="-1846099368" Left="699" Top="449" Right="763" Bottom="464" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1254,7 +1266,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonFazerUploadDoArquivo" Key="{2F8CD170-7CDB-4F72-8B96-887A8AA118D8}">
-										<Image FileName="-626818931" Left="252" Top="480" Right="403" Bottom="562" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -1272,7 +1283,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeSelectTooltipIcon" Key="{74ED40B6-DA74-4FF2-AA38-94D76575AD85}">
-										<Image FileName="-129874975" Left="375" Top="488" Right="395" Bottom="508" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1287,7 +1297,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonSelectButton" Key="{A15C4E5D-7E28-4653-88E2-5231274ADF3D}">
-										<Image FileName="-1495965377" Left="413" Top="480" Right="564" Bottom="562" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -1305,7 +1314,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonSelectButton2" Key="{DB1931C5-DA24-4F8C-8644-CC22CD90B432}">
-										<Image FileName="1250432563" Left="574" Top="480" Right="725" Bottom="562" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -1323,7 +1331,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkSaibaMaisSobrePlaylists" Key="{92C09152-B4CA-4386-98AE-F5790BD99321}">
-										<Image FileName="-598101856" Left="251" Top="449" Right="315" Bottom="464" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1338,7 +1345,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeSelecionar" Key="{6C3A7085-9F3B-4211-8F47-377C8C211569}">
-										<Image FileName="185387350" Left="251" Top="475" Right="511" Bottom="523" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1353,7 +1359,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkOQueConteDoParaCrianAs" Key="{A8BC92C0-0DC7-4409-9A6E-DE50F7F33CBD}">
-										<Image FileName="-693118417" Left="454" Top="449" Right="643" Bottom="464" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1371,7 +1376,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkSaibaMaisSobreAsConfiguraEs" Key="{8B3C3337-9A21-4317-AFF5-D40417F196FE}">
-										<Image FileName="-280967630" Left="291" Top="528" Right="771" Bottom="558" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1386,7 +1390,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeVideoMadeForKidsMfk" Key="{8C357D2C-676A-4AB7-9008-D05857E3B74A}">
-										<Image FileName="-1199635384" Left="253" Top="545" Right="484" Bottom="569" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1398,7 +1401,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelOffradio" Key="{86AB0B9D-F76C-4688-AFB0-CE00109A12CE}">
-										<Image FileName="1862710528" Left="253" Top="396" Right="273" Bottom="416" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1413,7 +1415,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeTitle" Key="{6A671FF3-C7F7-4501-BBF0-14A4DE22B139}">
-										<Image FileName="62243351" Left="0" Top="121" Right="0" Bottom="121" />
 										<Selectors>
 											<Selector>
 												<Value Value="#title" />
@@ -1430,7 +1431,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonFechar" Key="{720B10BD-6267-4114-8590-6BEC0E4E1342}">
-										<Image FileName="62243351" Left="618" Top="471" Right="693" Bottom="507" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -1451,7 +1451,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonRestriODeIdadeAvanAdo" Key="{C447321F-4DB4-4DDF-AB9D-DAB5A3348CD8}">
-										<Image FileName="-865686448" Left="251" Top="435" Right="487" Bottom="483" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -1469,7 +1468,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonPrXimo" Key="{647D699A-06A3-4F15-A702-4649DDB7C97E}">
-										<Image FileName="1706877701" Left="1055" Top="620" Right="1139" Bottom="656" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -1490,7 +1488,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelOffradio2" Key="{A7DF868B-088F-4F7F-8888-0BCA84DF3EC2}">
-										<Image FileName="2096548627" Left="303" Top="522" Right="323" Bottom="542" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1502,7 +1499,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeUnlisted" Key="{FF8AA6BF-7C01-445A-BF0A-CFB689507FDA}">
-										<Image FileName="2085653422" Left="303" Top="519" Right="409" Bottom="545" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1514,7 +1510,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeAoDefinirUmVDeoComoEstre" Key="{0C92FEAC-B8F1-411C-95FD-D6A59E4CD4B8}">
-										<Image FileName="369154560" Left="569" Top="446" Right="589" Bottom="466" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1526,7 +1521,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeClickToExpand" Key="{CB61DF74-1078-4F75-8F76-D00BF2B268CB}">
-										<Image FileName="-1312916185" Left="725" Top="521" Right="765" Bottom="561" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1541,7 +1535,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkSaibaMais" Key="{DB5114D9-7738-4343-93EF-0E1EF694ED4B}">
-										<Image FileName="-373512840" Left="547" Top="472" Right="607" Bottom="486" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1559,7 +1552,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkSaibaMais2" Key="{5A636392-3D19-4CF1-AD4D-A719ABF92738}">
-										<Image FileName="371771786" Left="610" Top="544" Right="670" Bottom="558" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1574,7 +1566,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeReproduzir" Key="{47EEDCE4-98A6-4CC9-AC71-7FE854C56CE8}">
-										<Image FileName="617501112" Left="809" Top="444" Right="849" Bottom="484" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1589,7 +1580,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnode" Key="{3E50FF70-F39F-4239-A4F0-9B6D679503F9}">
-										<Image FileName="682599878" Left="1107" Top="187" Right="1131" Bottom="211" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1604,7 +1594,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeHtmlBody" Key="{EAF93627-FAE9-43F0-8661-02EB0BF6E122}">
-										<Image FileName="1702166754" Left="0" Top="121" Right="1366" Bottom="720" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1619,7 +1608,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelCheckboxContainer" Key="{372F4DF0-42E5-4B91-BB4D-071C0BE00DB4}">
-										<Image FileName="919534409" Left="287" Top="411" Right="305" Bottom="429" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1631,7 +1619,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonEditarRascunho" Key="{9593DB8D-A820-4EEC-822F-D23AE19130AA}">
-										<Image FileName="1004389851" Left="1240" Top="472" Right="1370" Bottom="508" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -1649,7 +1636,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelOuter" Key="{246CE0EB-289D-4F63-A403-5BFDF497C306}">
-										<Image FileName="1011956203" Left="251" Top="367" Right="787" Bottom="446" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1664,7 +1650,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelFaleSobreSeuVDeoParaOs2" Key="{FB3894F0-A512-4AE1-B421-457A099EB91C}">
-										<Image FileName="-553513747" Left="263" Top="497" Right="775" Bottom="606" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1679,7 +1664,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonSalvar" Key="{2468CA5A-FB13-4241-99A8-514610473F3D}">
-										<Image FileName="429239965" Left="1068" Top="620" Right="1139" Bottom="656" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -1700,7 +1684,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkShareUrl" Key="{5EE6F618-A2DD-4FF9-987D-E0D683CC7429}">
-										<Image FileName="-98119344" Left="475" Top="555" Right="678" Bottom="573" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1718,7 +1701,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonFechar2" Key="{95057BED-3B27-4543-833B-E6A44BF66EE6}">
-										<Image FileName="1731219001" Left="840" Top="602" Right="915" Bottom="638" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -1736,7 +1718,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeHtmlBody2" Key="{F7896A16-83B3-4BEE-AD95-A5585BAB73BB}">
-										<Image FileName="-428644074" Left="0" Top="121" Right="1366" Bottom="720" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1751,7 +1732,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeMaisAEs" Key="{48FBF6B0-8445-4514-B592-97D927789220}">
-										<Image FileName="-982230600" Left="837" Top="360" Right="914" Bottom="395" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1769,7 +1749,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeExcluirParaSempre" Key="{E6BEFA7A-89C7-4F24-93F0-9F5A035F2893}">
-										<Image FileName="-1135614622" Left="861" Top="401" Right="992" Bottom="433" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1787,7 +1766,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="labelEntendoQueAExclusO" Key="{902055D9-68F1-4BC5-9BD7-65991645CB33}">
-										<Image FileName="-332262161" Left="419" Top="431" Right="872" Bottom="463" />
 										<Selectors>
 											<Selector>
 												<Value Value="//label[contains(., &apos;Entendo que a exclusão é permanente e não pode ser desfeita.&apos;)]" />
@@ -1804,7 +1782,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelCheckboxContainer2" Key="{823E0049-E230-426F-8257-D2475DC78C3F}">
-										<Image FileName="-332262161" Left="426" Top="438" Right="444" Bottom="456" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1816,7 +1793,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonExcluirParaSempre" Key="{B3D02205-7BE5-46EB-82A0-54FBE7F70A49}">
-										<Image FileName="-77975319" Left="791" Top="495" Right="947" Bottom="531" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -1834,7 +1810,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeHtmlBody3" Key="{1E8A4215-67F2-49DF-937E-394CF6AFEEE4}">
-										<Image FileName="-932472291" Left="0" Top="121" Right="1366" Bottom="720" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1849,7 +1824,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelTeste" Key="{83642507-A474-4925-A8F6-13F4D79525E8}">
-										<Image FileName="1010938341" Left="211" Top="177" Right="1171" Bottom="238" />
 										<TypeInfo Item0="{B7D9BE94-C0E1-4CD6-8FBB-5C00484BC6F3}" />
 										<Selectors>
 											<Selector>
@@ -1864,7 +1838,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="linkTeste" Key="{8D398385-DB87-4228-AF00-71DD28408A88}">
-										<Image FileName="921663916" Left="472" Top="486" Right="702" Bottom="506" />
 										<TypeInfo Item0="{00725BC7-65B5-49C5-A69A-7DF570B2D970}" />
 										<Selectors>
 											<Selector>
@@ -1882,7 +1855,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeSalvarEFechar" Key="{A037BECE-4D92-4ADC-8794-6FBBCC662EE6}">
-										<Image FileName="-211564667" Left="1107" Top="187" Right="1147" Bottom="227" />
 										<TypeInfo Item0="{B7D9BE94-C0E1-4CD6-8FBB-5C00484BC6F3}" />
 										<Selectors>
 											<Selector>
@@ -1900,7 +1872,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnode2" Key="{62692987-1A32-4C0C-B2C9-8CDDB5A4185C}">
-										<Image FileName="5417167" Left="859" Top="544" Right="883" Bottom="568" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1915,7 +1886,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnode3" Key="{4DC03268-9628-4450-A20D-95597CEE742C}">
-										<Image FileName="-1467658054" Left="891" Top="207" Right="915" Bottom="231" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1930,7 +1900,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeDialogTitle" Key="{13FF8B2E-09BE-4392-9D52-A5CE1531B1C9}">
-										<Image FileName="913432396" Left="451" Top="277" Right="638" Bottom="317" />
 										<TypeInfo Item0="{B7D9BE94-C0E1-4CD6-8FBB-5C00484BC6F3}" />
 										<Selectors>
 											<Selector>
@@ -1945,7 +1914,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeDialog" Key="{5E35CCF2-2F92-4E19-84BA-BFE350B828C8}">
-										<Image FileName="1598746072" Left="934" Top="583" Right="1318" Bottom="672" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -1959,7 +1927,6 @@
 								</Children>
 							</Child>
 							<Child Name="dlgAbrir" Key="{98CF0800-919C-4448-8D5F-0E66111B446D}">
-								<Image FileName="1130099062" Left="0" Top="0" Right="683" Bottom="480" />
 								<Properties>
 									<Property Name="WndClass">
 										<Value Value="#32770" />
@@ -1970,7 +1937,6 @@
 								</Properties>
 								<Children>
 									<Child Name="DUIViewWndClassName" Key="{A022796E-8D97-45FF-99DA-9E4F3A196324}">
-										<Image FileName="1130099062" Left="8" Top="86" Right="675" Bottom="391" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="DUIViewWndClassName" />
@@ -1978,7 +1944,6 @@
 										</Properties>
 										<Children>
 											<Child Name="Painel_do_Explorer" Key="{AC6F4A32-7C03-43B8-AB84-A77E5A0679F0}">
-												<Image FileName="1130099062" Left="8" Top="86" Right="675" Bottom="391" />
 												<Properties>
 													<Property Name="FrameworkId">
 														<Value Value="DirectUI" />
@@ -1998,7 +1963,6 @@
 												</Properties>
 												<Children>
 													<Child Name="CtrlNotifySink" Key="{0B979A2F-597E-4AD9-94B0-14D55DC13FEB}">
-														<Image FileName="1130099062" Left="168" Top="117" Right="675" Bottom="391" />
 														<Properties>
 															<Property Name="WndClass">
 																<Value Value="CtrlNotifySink" />
@@ -2012,7 +1976,6 @@
 														</Properties>
 														<Children>
 															<Child Name="ShellView" Key="{2B4B3DDB-C920-4D87-AD65-57088C8F3AF6}" ExtendedFind="True">
-																<Image FileName="1130099062" Left="168" Top="117" Right="675" Bottom="391" />
 																<Properties>
 																	<Property Name="WndClass">
 																		<Value Value="SHELLDLL_DefView" />
@@ -2023,7 +1986,6 @@
 																</Properties>
 																<Children>
 																	<Child Name="Modo_de_Exibi_o_de_Itens" Key="{612079EE-16E2-4B9E-9447-EE1FCE3F0BBE}">
-																		<Image FileName="1130099062" Left="168" Top="117" Right="675" Bottom="391" />
 																		<Properties>
 																			<Property Name="FrameworkId">
 																				<Value Value="DirectUI" />
@@ -2043,7 +2005,6 @@
 																		</Properties>
 																		<Children>
 																			<Child Name="mkv" Key="{7C1345CC-A6EE-4EDC-8728-22EC0903A1FF}">
-																				<Image FileName="1130099062" Left="428" Top="123" Right="533" Bottom="254" />
 																				<TypeInfo Item0="{3E500BD3-C60E-43F9-A9E0-006B5B858DB2}" />
 																				<Properties>
 																					<Property Name="FrameworkId">
@@ -2061,7 +2022,6 @@
 																				</Properties>
 																			</Child>
 																			<Child Name="teste_mkv" Key="{ECB32E4A-932C-4446-8987-D6170BCA7952}">
-																				<Image FileName="-682751183" Left="182" Top="255" Right="287" Bottom="371" />
 																				<TypeInfo Item0="{D1A59261-7921-4705-9B2E-658862544BCA}" />
 																				<Properties>
 																					<Property Name="FrameworkId">
@@ -2089,7 +2049,6 @@
 										</Children>
 									</Child>
 									<Child Name="WorkerW" Key="{F98B95CD-5845-4A12-8385-290255B5B9E1}">
-										<Image FileName="-155502149" Left="8" Top="31" Right="675" Bottom="86" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="WorkerW" />
@@ -2097,7 +2056,6 @@
 										</Properties>
 										<Children>
 											<Child Name="ReBarWindow32" Key="{759E2AD1-522D-40A8-A867-75E756E51802}">
-												<Image FileName="-155502149" Left="8" Top="31" Right="675" Bottom="86" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="ReBarWindow32" />
@@ -2105,7 +2063,6 @@
 												</Properties>
 												<Children>
 													<Child Name="AddressBandRoot" Key="{CF43E5B3-60A7-4B72-9698-59A992957FEA}">
-														<Image FileName="-155502149" Left="144" Top="31" Right="450" Bottom="83" />
 														<Properties>
 															<Property Name="WndClass">
 																<Value Value="Address Band Root" />
@@ -2113,7 +2070,6 @@
 														</Properties>
 														<Children>
 															<Child Name="progress" Key="{C7C56CB2-F360-413A-8F9E-DFE2C4CE8761}">
-																<Image FileName="-155502149" Left="146" Top="41" Right="448" Bottom="75" />
 																<Properties>
 																	<Property Name="WndClass">
 																		<Value Value="msctls_progress32" />
@@ -2121,7 +2077,6 @@
 																</Properties>
 																<Children>
 																	<Child Name="BreadcrumbParent" Key="{A48A8783-C5E1-4B2A-9869-AB8B4523F86F}">
-																		<Image FileName="-155502149" Left="146" Top="41" Right="374" Bottom="75" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="Breadcrumb Parent" />
@@ -2129,7 +2084,6 @@
 																		</Properties>
 																		<Children>
 																			<Child Name="toolbar" Key="{DF22779B-E781-4DB0-8CF1-657795154C99}">
-																				<Image FileName="-1743005781" Left="152" Top="41" Right="374" Bottom="75" />
 																				<TypeInfo Item0="{1DBD91BD-41A4-4876-87F8-D7392930278D}" />
 																				<Properties>
 																					<Property Name="WndClass">
@@ -2141,7 +2095,6 @@
 																				</Properties>
 																			</Child>
 																			<Child Name="toolbarEndere_oCVideos" Key="{6E363C1F-7E52-48B3-B0A6-20C41BA090B8}">
-																				<Image FileName="-1165121357" Left="152" Top="41" Right="374" Bottom="75" />
 																				<TypeInfo Item0="{1DBD91BD-41A4-4876-87F8-D7392930278D}" />
 																				<Properties>
 																					<Property Name="WndClass">
@@ -2152,7 +2105,6 @@
 																		</Children>
 																	</Child>
 																	<Child Name="comboBox" Key="{31D5DEFC-19C4-4C95-809F-3C099EAF1D32}">
-																		<Image FileName="857196993" Left="146" Top="41" Right="411" Bottom="75" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="ComboBoxEx32" />
@@ -2160,7 +2112,6 @@
 																		</Properties>
 																		<Children>
 																			<Child Name="ComboBox" Key="{5623F59F-42E9-4DAD-988A-9CAA75C548DE}">
-																				<Image FileName="857196993" Left="146" Top="41" Right="411" Bottom="75" />
 																				<Properties>
 																					<Property Name="WndClass">
 																						<Value Value="ComboBox" />
@@ -2168,7 +2119,6 @@
 																				</Properties>
 																				<Children>
 																					<Child Name="Edit" Key="{12E09CF9-E20F-45C8-BB5D-59E65A6867D7}">
-																						<Image FileName="857196993" Left="170" Top="51" Right="374" Bottom="66" />
 																						<TypeInfo Item0="{DF450CD2-137B-4401-9983-DA0EA2193CF7}" />
 																						<Properties>
 																							<Property Name="WndClass">
@@ -2181,7 +2131,6 @@
 																		</Children>
 																	</Child>
 																	<Child Name="toolbarFaixaDeEndere_os" Key="{6C58232B-F240-4887-9ECA-B23BF7070775}">
-																		<Image FileName="410184478" Left="374" Top="41" Right="448" Bottom="75" />
 																		<TypeInfo Item0="{1DBD91BD-41A4-4876-87F8-D7392930278D}" />
 																		<Properties>
 																			<Property Name="WndClass">
@@ -2197,7 +2146,6 @@
 														</Children>
 													</Child>
 													<Child Name="UpBand" Key="{11C7993A-82F1-432A-973C-D0D2F5E7C190}">
-														<Image FileName="-1754495086" Left="108" Top="39" Right="144" Bottom="75" />
 														<Properties>
 															<Property Name="WndClass">
 																<Value Value="UpBand" />
@@ -2205,7 +2153,6 @@
 														</Properties>
 														<Children>
 															<Child Name="toolbarFaixaParaCima" Key="{2115BD12-1B66-4A3A-B9FD-3F99A05653CC}">
-																<Image FileName="-1754495086" Left="108" Top="42" Right="144" Bottom="78" />
 																<TypeInfo Item0="{1DBD91BD-41A4-4876-87F8-D7392930278D}" />
 																<Properties>
 																	<Property Name="WndClass">
@@ -2223,7 +2170,6 @@
 										</Children>
 									</Child>
 									<Child Name="cbxNome" Key="{6C4AE2AA-912C-44C9-8848-0EF292BA0CCA}">
-										<Image FileName="305461863" Left="179" Top="400" Right="458" Bottom="424" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="ComboBoxEx32" />
@@ -2231,7 +2177,6 @@
 										</Properties>
 										<Children>
 											<Child Name="ComboBox" Key="{AC31932E-232B-4446-BA29-39D2B79423C8}">
-												<Image FileName="305461863" Left="179" Top="400" Right="458" Bottom="424" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="ComboBox" />
@@ -2239,7 +2184,6 @@
 												</Properties>
 												<Children>
 													<Child Name="Edit" Key="{06764FC5-E8C6-49C8-BDE1-14576D7BC459}">
-														<Image FileName="305461863" Left="183" Top="405" Right="438" Bottom="420" />
 														<TypeInfo Item0="{DF450CD2-137B-4401-9983-DA0EA2193CF7}" />
 														<Properties>
 															<Property Name="WndClass">
@@ -2252,7 +2196,6 @@
 										</Children>
 									</Child>
 									<Child Name="cbxTipo" Key="{660AA70A-C220-4E09-9F33-8AD639A33D2B}">
-										<Image FileName="136059713" Left="470" Top="400" Right="658" Bottom="423" />
 										<TypeInfo Item0="{E345ED38-B683-4A17-8176-99A21366BCB4}" />
 										<Properties>
 											<Property Name="WndClass">
@@ -2261,7 +2204,6 @@
 										</Properties>
 									</Child>
 									<Child Name="btnAbrir" Key="{C7A37327-137F-4C6C-A161-539B132D9EC3}">
-										<Image FileName="1868434377" Left="470" Top="429" Right="558" Bottom="455" />
 										<TypeInfo Item0="{DA10BB62-11EB-449B-936D-270A632F5045}" />
 										<Properties>
 											<Property Name="WndClass">
@@ -2273,7 +2215,6 @@
 										</Properties>
 									</Child>
 									<Child Name="btnCancelar" Key="{7A14A3A2-252A-41AD-B5D4-02F45FBC2B2A}">
-										<Image FileName="-1754495086" Left="570" Top="429" Right="658" Bottom="455" />
 										<TypeInfo Item0="{DA10BB62-11EB-449B-936D-270A632F5045}" />
 										<Properties>
 											<Property Name="WndClass">
@@ -2287,7 +2228,6 @@
 								</Children>
 							</Child>
 							<Child Name="pageCenRioDeTeste1Youtube" Key="{03FACB3F-06A7-40CB-93B2-C043455F1154}">
-								<Image FileName="-2091399083" Left="0" Top="121" Right="1366" Bottom="720" />
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="Page" />
@@ -2298,7 +2238,6 @@
 								</Properties>
 								<Children>
 									<Child Name="buttonPausaAtalhoDoTecladoK" Key="{9DAC1DF6-2DF3-4351-8B69-9945C752F2D2}">
-										<Image FileName="223727895" Left="134" Top="536" Right="180" Bottom="584" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2307,7 +2246,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonMarqueEsteVDeoComoGostei" Key="{4BABE59A-72D7-4CE5-B75C-64B030B8BD88}">
-										<Image FileName="1262807037" Left="497" Top="654" Right="561" Bottom="690" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2327,7 +2265,6 @@
 								</Children>
 							</Child>
 							<Child Name="pageConteDoDoCanalYoutubeStudio2" Key="{21FA160E-4A72-4233-AE3E-3B620EC17C37}">
-								<Image FileName="1838661777" Left="0" Top="121" Right="1366" Bottom="720" />
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="Page" />
@@ -2338,7 +2275,6 @@
 								</Properties>
 								<Children>
 									<Child Name="textnodeDialog" Key="{50F30C95-9FDF-40DE-9EF5-8F54F0746B2E}">
-										<Image FileName="1838661777" Left="203" Top="169" Right="1163" Bottom="672" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2350,7 +2286,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeEnviarFeedback" Key="{0B22C899-F8CD-4D10-A7C2-31267EA0D0E9}">
-										<Image FileName="308067982" Left="1059" Top="179" Right="1099" Bottom="219" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2362,7 +2297,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeFechar" Key="{D056F4E9-78F4-487A-AC25-1A6390A145E5}">
-										<Image FileName="-1077785834" Left="1099" Top="179" Right="1139" Bottom="219" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2374,7 +2308,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonSelecionarArquivos" Key="{1F91331D-A902-43CA-A137-0F0B6936D006}">
-										<Image FileName="-17569042" Left="605" Top="519" Right="760" Bottom="555" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2392,7 +2325,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeSalvarEFechar" Key="{A935EF6C-E238-44B0-BAD9-28CEE38ECEE8}">
-										<Image FileName="689173879" Left="1099" Top="179" Right="1139" Bottom="219" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2410,7 +2342,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelAdicioneUmTTuloQueDescreva" Key="{493C7507-8B60-4F00-9024-CF7837A310AE}">
-										<Image FileName="518983451" Left="263" Top="394" Right="775" Bottom="423" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2425,7 +2356,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeUmTTuloChamativoPodeAjud" Key="{7FC2A5C4-5B3C-4788-BF68-B068069544C0}">
-										<Image FileName="950298898" Left="413" Top="374" Right="429" Bottom="390" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2437,7 +2367,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonReutilizarDetalhes" Key="{225DB983-D88E-457B-B78B-2FB257C08824}">
-										<Image FileName="56317401" Left="639" Top="318" Right="787" Bottom="354" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2455,7 +2384,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonEtapa44Visibilidade" Key="{98FF38D3-E013-407E-9392-BE863F32A338}">
-										<Image FileName="-554902123" Left="961" Top="238" Right="1089" Bottom="302" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2476,7 +2404,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonEtapa34VerificaEs" Key="{B98855A7-49B8-4CB0-A818-F6E10CA55A55}">
-										<Image FileName="158893263" Left="733" Top="238" Right="861" Bottom="302" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2497,7 +2424,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonEtapa24ElementosDoVDeo" Key="{328D638B-7BC2-4628-AE66-B4BAAD850DD7}">
-										<Image FileName="1559304213" Left="487" Top="238" Right="651" Bottom="302" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2518,7 +2444,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonEtapa14Detalhes" Key="{97EFE51D-41B7-4541-AC8A-817818EA4654}">
-										<Image FileName="-1025125559" Left="277" Top="238" Right="405" Bottom="302" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2541,7 +2466,6 @@
 								</Children>
 							</Child>
 							<Child Name="pageConteDoDoCanalYoutubeStudio3" Key="{1FDEC0F2-A31F-4741-8EA9-847B510FD1AD}">
-								<Image FileName="169946681" Left="0" Top="121" Right="1366" Bottom="720" />
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="Page" />
@@ -2552,7 +2476,6 @@
 								</Properties>
 								<Children>
 									<Child Name="textnodeDialog" Key="{C952C12B-AB66-4034-A482-7ED72DEE1126}">
-										<Image FileName="169946681" Left="203" Top="169" Right="1163" Bottom="672" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2564,7 +2487,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeEnviarFeedback" Key="{468E5D6C-B792-4DF6-8A06-78D2499FCEA5}">
-										<Image FileName="-1119728106" Left="1059" Top="179" Right="1099" Bottom="219" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2576,7 +2498,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeFechar" Key="{7D7E7F1A-4FA0-4AD0-9339-F03E6F4FC376}">
-										<Image FileName="750223779" Left="1099" Top="179" Right="1139" Bottom="219" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2588,7 +2509,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonSelecionarArquivos" Key="{8E032818-5340-44A2-838D-D4FAC97E9BC0}">
-										<Image FileName="-1723530170" Left="605" Top="519" Right="760" Bottom="555" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2606,7 +2526,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelAdicioneUmTTuloQueDescreva" Key="{4C3FF79A-9AFC-4D5F-BA9C-2C5181008BE7}">
-										<Image FileName="-2004603293" Left="263" Top="394" Right="775" Bottom="423" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2621,7 +2540,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeUmTTuloChamativoPodeAjud" Key="{F7698249-2FF7-409F-97A8-19D8DF05FB18}">
-										<Image FileName="253335627" Left="413" Top="374" Right="429" Bottom="390" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2633,7 +2551,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonReutilizarDetalhes" Key="{B68A134D-FAF8-40EB-A4E4-A163F4BFAB1D}">
-										<Image FileName="-79885224" Left="639" Top="318" Right="787" Bottom="354" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2651,7 +2568,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonEtapa44Visibilidade" Key="{360B28A4-7144-4EE2-9631-9C89C5C811E7}">
-										<Image FileName="-146800196" Left="961" Top="238" Right="1089" Bottom="302" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2672,7 +2588,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonEtapa34VerificaEs" Key="{12AA9596-1A70-4997-B796-285275D36F4B}">
-										<Image FileName="550787302" Left="733" Top="238" Right="861" Bottom="302" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2693,7 +2608,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonEtapa24ElementosDoVDeo" Key="{1733074B-878B-4710-8C84-D105C010364B}">
-										<Image FileName="1969079356" Left="487" Top="238" Right="651" Bottom="302" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2714,7 +2628,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonEtapa14Detalhes" Key="{69F123F6-8F4B-44C6-BE60-A585B63683A2}">
-										<Image FileName="-347533472" Left="277" Top="238" Right="405" Bottom="302" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2735,7 +2648,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnodeSalvarEFechar" Key="{2AEE2835-ED2F-4B45-95B9-F6272F449E10}">
-										<Image FileName="505469798" Left="1099" Top="179" Right="1139" Bottom="219" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2747,7 +2659,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnode" Key="{00756F33-4509-45C9-B390-7460532660DE}">
-										<Image FileName="2123943973" Left="1107" Top="187" Right="1131" Bottom="211" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2762,7 +2673,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelCheckboxContainer" Key="{5EB260D2-B26F-434E-B919-134F76D6C3D2}">
-										<Image FileName="-548083616" Left="287" Top="411" Right="305" Bottom="429" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2774,7 +2684,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonEditarRascunho" Key="{4F865392-3C86-4D96-99EA-DF8D27F046F9}">
-										<Image FileName="1642321935" Left="1240" Top="472" Right="1370" Bottom="508" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2792,7 +2701,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelFaleSobreSeuVDeoParaOs" Key="{902FA2DF-9991-4366-8BF9-FF76DE4426A5}">
-										<Image FileName="-207804032" Left="263" Top="497" Right="775" Bottom="606" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2804,7 +2712,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonPrXimo" Key="{5B5BF6E8-9940-4BFF-A35E-238DC44040C9}">
-										<Image FileName="-992835216" Left="1055" Top="620" Right="1139" Bottom="656" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2825,7 +2732,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="panelOffradio" Key="{7270B8C6-B3DD-4457-BFBB-FA25F9A55442}">
-										<Image FileName="215553139" Left="253" Top="496" Right="273" Bottom="516" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2840,7 +2746,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="buttonSalvar" Key="{5794B2D0-9091-4A5A-B6CD-3036A21A314F}">
-										<Image FileName="-1889977823" Left="1068" Top="620" Right="1139" Bottom="656" />
 										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
 										<Selectors>
 											<Selector>
@@ -2861,7 +2766,6 @@
 										</Selectors>
 									</Child>
 									<Child Name="textnode2" Key="{C33928E2-B151-4CDD-AC06-FFEEA3F52B71}">
-										<Image FileName="2039815847" Left="891" Top="207" Right="915" Bottom="231" />
 										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
 										<Selectors>
 											<Selector>
@@ -2874,6 +2778,451 @@
 												<Value Value="//tp-yt-paper-dialog[@role=&apos;dialog&apos;]/div/div/ytcp-icon-button/tp-yt-iron-icon" />
 											</Selector>
 										</Selectors>
+									</Child>
+									<Child Name="panel" Key="{8A606FC9-5317-415F-A713-96182A551BC0}">
+										<Image FileName="-798792393" Left="838" Top="361" Right="842" Bottom="407" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div/ytcp-select[@id=&apos;additional-action-options&apos;]/ytcp-text-dropdown-trigger/ytcp-dropdown-trigger//div[contains(@class, &apos;color-marker-inner&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ytcp-select[@id=&apos;additional-action-options&apos;]//div/div/div" />
+											</Selector>
+											<Selector>
+												<Value Value="//ytcp-select[@id=&apos;additional-action-options&apos;]/ytcp-text-dropdown-trigger/ytcp-dropdown-trigger/div/div/div" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeExcluirParaSempre" Key="{C64F832E-018D-4082-993B-4F394E52B53B}">
+										<Image FileName="-1453794835" Left="861" Top="401" Right="992" Bottom="433" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//yt-formatted-string[.=&apos;Excluir para sempre&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tp-yt-paper-dialog[@role=&apos;dialog&apos;]/tp-yt-paper-listbox/tp-yt-paper-item[@id=&apos;text-item-1&apos;]/ytcp-ve/tp-yt-paper-item-body//yt-formatted-string[contains(@class, &apos;item-text&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tp-yt-paper-item[@id=&apos;text-item-1&apos;]//yt-formatted-string" />
+											</Selector>
+											<Selector>
+												<Value Value="//tp-yt-paper-dialog[@role=&apos;dialog&apos;]/tp-yt-paper-listbox/tp-yt-paper-item[@id=&apos;text-item-1&apos;]/ytcp-ve/tp-yt-paper-item-body//yt-formatted-string" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="labelEntendoQueAExclusO" Key="{B348D893-71B7-4511-AC61-2A3D0573ADE8}">
+										<Image FileName="1918123081" Left="419" Top="431" Right="872" Bottom="463" />
+										<Selectors>
+											<Selector>
+												<Value Value="//label[contains(., &apos;Entendo que a exclusão é permanente e não pode ser desfeita.&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//label[contains(@class, &apos;checkbox-wrapper&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;dialog-content-confirm-checkboxes&apos;]/label" />
+											</Selector>
+											<Selector>
+												<Value Value="//label" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeEntendoQueAExclusO" Key="{141027F3-EBED-4B72-B4F4-2B3F2331C5C8}">
+										<Image FileName="1918123081" Left="451" Top="435" Right="872" Bottom="459" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[contains(text(), &apos;Entendo que a exclusão é permanente e não pode ser desfeita.&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//span[contains(@class, &apos;confirm-checkbox-label&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;dialog-content-confirm-checkboxes&apos;]//span" />
+											</Selector>
+											<Selector>
+												<Value Value="//label/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonExcluirParaSempre" Key="{334861CF-B921-4E5B-B5E5-77F821D49FF5}">
+										<Image FileName="1698437199" Left="791" Top="495" Right="947" Bottom="531" />
+										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[.=&apos;Excluir para sempre&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ytcp-button[@id=&apos;confirm-button&apos;]/ytcp-button-shape/button[contains(@class, &apos;ytcp-button-shape-impl&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ytcp-button[@id=&apos;confirm-button&apos;]//button" />
+											</Selector>
+											<Selector>
+												<Value Value="//ytcp-button[@id=&apos;confirm-button&apos;]/ytcp-button-shape/button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode3" Key="{BC93C17D-C612-41DB-AB9B-94A3A4EFF650}">
+										<Image FileName="2063819409" Left="464" Top="446" Right="488" Bottom="470" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ytcp-video-row[@role=&apos;row&apos;]//ytcp-video-list-cell-video//a[@id=&apos;anchor-video-details&apos;]/ytcp-icon-button/tp-yt-iron-icon[contains(@class, &apos;remove-defaults&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ytcp-icon-button[@id=&apos;video-details&apos;]/tp-yt-iron-icon" />
+											</Selector>
+											<Selector>
+												<Value Value="//ytcp-video-row[@role=&apos;row&apos;]//ytcp-video-list-cell-video//a/ytcp-icon-button/tp-yt-iron-icon" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageYoutube2" Key="{D87497A0-E655-4E24-A9DB-1FF18D837A96}">
+								<Image FileName="-1355659717" Left="0" Top="121" Right="1366" Bottom="720" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://accounts.google.com/InteractiveLogin/signinchooser*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionCenariostesteyoutube" Key="{6350C436-AAD1-4000-9120-5EA8788F514E}">
+										<Image FileName="-1355659717" Left="707" Top="305" Right="1130" Bottom="480" />
+										<Selectors>
+											<Selector>
+												<Value Value="//section[contains(., &apos;cenariosTesteYoutube&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;Em2Ord&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeCenariostesteyoutube" Key="{77655105-36A3-4DB6-8CF2-21E065E7E193}">
+										<Image FileName="-1355659717" Left="707" Top="305" Right="1130" Bottom="480" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;cenariosTesteYoutube&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;Dl08I&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form//section//ul" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeRemoverUmaConta" Key="{71E752D9-5438-4A2E-920A-F2CC330C0E32}">
+										<Image FileName="-1355659717" Left="707" Top="427" Right="1130" Bottom="480" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[.=&apos;Remover uma conta&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelRemoverUmaConta" Key="{F522D7E0-BA42-45F0-B04F-E61CD56673F2}">
+										<Image FileName="-1355659717" Left="747" Top="441" Right="897" Bottom="465" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[text()=&apos;Remover uma conta&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul/li[3]//div[contains(@class, &apos;AsY17b&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeYdmh0d" Key="{7D388076-E68D-461E-A8D5-27DDAB4735AE}">
+										<Image FileName="427426790" Left="0" Top="121" Right="1366" Bottom="720" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#yDmH0d" />
+											</Selector>
+											<Selector>
+												<Value Value="//body[contains(., &apos;Remover uma conta&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body[contains(@class, &apos;nyoS7c&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonConcluDo" Key="{2C63638D-B85C-4CA1-B54E-40968C18B7D1}">
+										<Image FileName="2063212694" Left="691" Top="465" Right="790" Bottom="505" />
+										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[.=&apos;Concluído&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@type=&apos;button&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[contains(@class, &apos;VfPpkd-LgbsSe&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="footerPortuguSBrasil" Key="{82249D33-5CFC-416D-8A12-51A247893078}">
+										<Image FileName="643341917" Left="216" Top="581" Right="1150" Bottom="645" />
+										<Selectors>
+											<Selector>
+												<Value Value="2F002F0066006F006F007400650072005B0063006F006E007400610069006E00730028002E002C00200027002A2050006F0072007400750067007500EA00730020002800420072006100730069006C0029002C20270029005D00" Type="7" />
+											</Selector>
+											<Selector>
+												<Value Value="//footer[contains(@class, &apos;OKMeHe&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//footer" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelPortuguSBrasil" Key="{D64CE88F-31F0-460E-BE2F-FB1D019E7629}">
+										<Image FileName="643341917" Left="200" Top="597" Right="400" Bottom="629" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="2F002F006400690076005B002E003D0027002A2050006F0072007400750067007500EA00730020002800420072006100730069006C0029002C2027005D00" Type="7" />
+											</Selector>
+											<Selector>
+												<Value Value="2F002F006400690076005B002E003D0027002A2050006F0072007400750067007500EA00730020002800420072006100730069006C0029002C2027005D00" Type="7" />
+											</Selector>
+											<Selector>
+												<Value Value="//footer/div/div/div/div" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeAjuda" Key="{516ACF31-AD34-4B06-9264-BEC4602AA7E8}">
+										<Image FileName="808558820" Left="937" Top="581" Right="1162" Bottom="645" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Ajuda&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;DeP0Wd&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//footer/ul" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeAjuda2" Key="{630D7C2A-61BD-4808-AE50-9BF9B90B5174}">
+										<Image FileName="808558820" Left="937" Top="597" Right="993" Bottom="629" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[.=&apos;Ajuda&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//footer/ul/li" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkAjuda" Key="{5B9945CB-E09E-4A2B-A211-63A4314136AD}">
+										<Image FileName="808558820" Left="937" Top="597" Right="993" Bottom="629" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Ajuda&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/a[contains(@class, &apos;lttXSd&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodePrivacidade" Key="{BE3461AA-4337-4E6D-9557-15E11841BDB9}">
+										<Image FileName="958375039" Left="1000" Top="597" Right="1089" Bottom="629" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[.=&apos;Privacidade&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkPrivacidade" Key="{CCC9127B-CBC0-42DF-8F24-336E9C76B2E9}">
+										<Image FileName="958375039" Left="1000" Top="597" Right="1089" Bottom="629" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Privacidade&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/a[contains(@class, &apos;lttXSd&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeTermos" Key="{C92FAF56-8061-4E74-89BE-FC085EF216A3}">
+										<Image FileName="-1230791358" Left="1097" Top="597" Right="1162" Bottom="629" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[.=&apos;Termos&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkTermos" Key="{883E5D6E-BBAF-4397-AD22-26E6674D6DBE}">
+										<Image FileName="-1230791358" Left="1097" Top="597" Right="1162" Bottom="629" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Termos&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[3]/a[contains(@class, &apos;lttXSd&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[3]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeCenariostesteyoutube2" Key="{DD57A378-0FC3-44D9-9076-EB042F558571}">
+										<Image FileName="-1502139394" Left="707" Top="305" Right="1130" Bottom="374" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;cenariosTesteYoutube&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;oqdnae&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelCenariostesteyoutube" Key="{90EA1AF3-C56C-44A6-A90C-BDCE341EE9C7}">
+										<Image FileName="216575911" Left="691" Top="305" Right="1146" Bottom="373" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li/div[@role=&apos;link&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/div[contains(@class, &apos;VV3oRb&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/div" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeUsarOutraConta" Key="{C9942310-822D-4554-A08C-A8ED8F6525E2}">
+										<Image FileName="1202473616" Left="707" Top="374" Right="1130" Bottom="427" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[.=&apos;Usar outra conta&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelUsarOutraConta" Key="{8055F959-2335-477D-B8A7-AEAA500AE86C}">
+										<Image FileName="1202473616" Left="691" Top="374" Right="1146" Bottom="426" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[.=&apos;Usar outra conta&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/div[@role=&apos;link&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/div[contains(@class, &apos;VV3oRb&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/div" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonSimRemover" Key="{452C0B60-56B2-4577-8E5E-BADC552BB814}">
+										<Image FileName="516764247" Left="819" Top="462" Right="939" Bottom="502" />
+										<TypeInfo Item0="{189FD830-F9EA-43D3-99C7-EC78C068F966}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[.=&apos;Sim, remover&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[contains(@class, &apos;VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageCenariostesteyoutubeYoutube" Key="{F7000158-15D1-45B7-B1EB-51AF3B73C60B}">
+								<Image FileName="906602249" Left="0" Top="121" Right="1366" Bottom="720" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.youtube.com/@cenariosTesteYoutube" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="linkGerenciarVDeos" Key="{CFA7DFD3-B7F5-496E-A331-58A190DF7CFD}">
+										<Image FileName="2113908482" Left="604" Top="315" Right="741" Bottom="351" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Gerenciar vídeos&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/button-view-model/a[contains(@class, &apos;yt-spec-button-shape-next&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;page-header&apos;]//div[2]/button-view-model/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/button-view-model/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panel" Key="{D848F83C-292B-467F-8649-927F14A0F3FE}">
+										<Image FileName="2113908482" Left="604" Top="315" Right="741" Bottom="351" />
+										<TypeInfo Item0="{CFDDA77C-0F71-4B50-AA44-05B75147A292}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//yt-flexible-actions-view-model/div[2]/button-view-model/a/yt-touch-feedback-shape//div[contains(@class, &apos;yt-spec-touch-feedback-shape__fill&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{4018E0CF-D151-4136-B78C-FBFE86390385}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{ED64727A-95B8-4667-B5CB-F09B0E23C610}">
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_TrayWnd" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DesktopWindowXamlSource" Key="{EE314C38-B122-4576-B71B-1504B07B6465}">
+										<TypeInfo Item0="{55AEFE90-B3D9-43EB-B46A-C71167DBBB12}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Windows.UI.Composition.DesktopWindowContentBridge" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="DesktopWindowXamlSource" />
+											</Property>
+										</Properties>
 									</Child>
 								</Children>
 							</Child>
@@ -2971,6 +3320,13 @@
 				<Child Name="linkEndpoint23" Owner="{2ABB4BEE-3140-40E3-9773-19AE5CFA88C5}">
 					<Child Name="textnodeYoutubeMusic" Owner="{5531800D-DE5A-4BFB-8F18-491B787FB0CC}" />
 				</Child>
+				<Child Name="linkEndpoint24" Owner="{0DD19AC9-05A9-4DE2-B868-35871A77A358}">
+					<Child Name="textnodeLabel" Owner="{94CD9657-FC20-45EE-944C-AE996C02FF2E}" />
+				</Child>
+				<Child Name="linkFazerLogin" Owner="{654F2B9A-BE5F-4699-AB22-B591BBAFBC17}">
+					<Child Name="panel" Owner="{CA9B758B-9ADA-4DD4-9FD6-442B34E7E8F6}" />
+				</Child>
+				<Child Name="linkAcessarSeuCanal" Owner="{97069B47-481D-44B7-A5B3-6107E0AD3C33}" />
 			</Child>
 			<Child Name="pageConteDoDoCanalYoutubeStudio" Owner="{706194AB-97E0-46CE-AF20-204F47C19115}">
 				<Child Name="buttonSelecionarArquivos" Owner="{0001D670-040B-43F0-B6EB-21A0049CF891}" />
@@ -3107,6 +3463,55 @@
 				<Child Name="panelOffradio" Owner="{7270B8C6-B3DD-4457-BFBB-FA25F9A55442}" />
 				<Child Name="buttonSalvar" Owner="{5794B2D0-9091-4A5A-B6CD-3036A21A314F}" />
 				<Child Name="textnode2" Owner="{C33928E2-B151-4CDD-AC06-FFEEA3F52B71}" />
+				<Child Name="panel" Owner="{8A606FC9-5317-415F-A713-96182A551BC0}" />
+				<Child Name="textnodeExcluirParaSempre" Owner="{C64F832E-018D-4082-993B-4F394E52B53B}" />
+				<Child Name="labelEntendoQueAExclusO" Owner="{B348D893-71B7-4511-AC61-2A3D0573ADE8}">
+					<Child Name="textnodeEntendoQueAExclusO" Owner="{141027F3-EBED-4B72-B4F4-2B3F2331C5C8}" />
+				</Child>
+				<Child Name="buttonExcluirParaSempre" Owner="{334861CF-B921-4E5B-B5E5-77F821D49FF5}" />
+				<Child Name="textnode3" Owner="{BC93C17D-C612-41DB-AB9B-94A3A4EFF650}" />
+			</Child>
+			<Child Name="pageYoutube2" Owner="{D87497A0-E655-4E24-A9DB-1FF18D837A96}">
+				<Child Name="sectionCenariostesteyoutube" Owner="{6350C436-AAD1-4000-9120-5EA8788F514E}">
+					<Child Name="textnodeCenariostesteyoutube" Owner="{77655105-36A3-4DB6-8CF2-21E065E7E193}">
+						<Child Name="textnodeRemoverUmaConta" Owner="{71E752D9-5438-4A2E-920A-F2CC330C0E32}">
+							<Child Name="panelRemoverUmaConta" Owner="{F522D7E0-BA42-45F0-B04F-E61CD56673F2}" />
+						</Child>
+						<Child Name="textnodeCenariostesteyoutube2" Owner="{DD57A378-0FC3-44D9-9076-EB042F558571}">
+							<Child Name="panelCenariostesteyoutube" Owner="{90EA1AF3-C56C-44A6-A90C-BDCE341EE9C7}" />
+						</Child>
+						<Child Name="textnodeUsarOutraConta" Owner="{C9942310-822D-4554-A08C-A8ED8F6525E2}">
+							<Child Name="panelUsarOutraConta" Owner="{8055F959-2335-477D-B8A7-AEAA500AE86C}" />
+						</Child>
+					</Child>
+					<Child Name="buttonConcluDo" Owner="{2C63638D-B85C-4CA1-B54E-40968C18B7D1}" />
+				</Child>
+				<Child Name="textnodeYdmh0d" Owner="{7D388076-E68D-461E-A8D5-27DDAB4735AE}" />
+				<Child Name="footerPortuguSBrasil" Owner="{82249D33-5CFC-416D-8A12-51A247893078}">
+					<Child Name="panelPortuguSBrasil" Owner="{D64CE88F-31F0-460E-BE2F-FB1D019E7629}" />
+					<Child Name="textnodeAjuda" Owner="{516ACF31-AD34-4B06-9264-BEC4602AA7E8}">
+						<Child Name="textnodeAjuda2" Owner="{630D7C2A-61BD-4808-AE50-9BF9B90B5174}">
+							<Child Name="linkAjuda" Owner="{5B9945CB-E09E-4A2B-A211-63A4314136AD}" />
+						</Child>
+						<Child Name="textnodePrivacidade" Owner="{BE3461AA-4337-4E6D-9557-15E11841BDB9}">
+							<Child Name="linkPrivacidade" Owner="{CCC9127B-CBC0-42DF-8F24-336E9C76B2E9}" />
+						</Child>
+						<Child Name="textnodeTermos" Owner="{C92FAF56-8061-4E74-89BE-FC085EF216A3}">
+							<Child Name="linkTermos" Owner="{883E5D6E-BBAF-4397-AD22-26E6674D6DBE}" />
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="buttonSimRemover" Owner="{452C0B60-56B2-4577-8E5E-BADC552BB814}" />
+			</Child>
+			<Child Name="pageCenariostesteyoutubeYoutube" Owner="{F7000158-15D1-45B7-B1EB-51AF3B73C60B}">
+				<Child Name="linkGerenciarVDeos" Owner="{CFA7DFD3-B7F5-496E-A331-58A190DF7CFD}">
+					<Child Name="panel" Owner="{D848F83C-292B-467F-8649-927F14A0F3FE}" />
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="explorer" Owner="{4018E0CF-D151-4136-B78C-FBFE86390385}">
+			<Child Name="wndShell_TrayWnd" Owner="{ED64727A-95B8-4667-B5CB-F09B0E23C610}">
+				<Child Name="DesktopWindowXamlSource" Owner="{EE314C38-B122-4576-B71B-1504B07B6465}" />
 			</Child>
 		</Child>
 	</LogicalNodes>
